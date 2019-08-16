@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/szymskiBeats/static/css/main.2cce8147.chunk.css",
+    "main.js": "/szymskiBeats/static/js/main.6d5ded9a.chunk.js",
+    "main.js.map": "/szymskiBeats/static/js/main.6d5ded9a.chunk.js.map",
+    "runtime~main.js": "/szymskiBeats/static/js/runtime~main.0968c9a6.js",
+    "runtime~main.js.map": "/szymskiBeats/static/js/runtime~main.0968c9a6.js.map",
+    "static/js/2.ce7f2adc.chunk.js": "/szymskiBeats/static/js/2.ce7f2adc.chunk.js",
+    "static/js/2.ce7f2adc.chunk.js.map": "/szymskiBeats/static/js/2.ce7f2adc.chunk.js.map",
+    "index.html": "/szymskiBeats/index.html",
+    "precache-manifest.11693eac824780a6fff99457a68b4079.js": "/szymskiBeats/precache-manifest.11693eac824780a6fff99457a68b4079.js",
+    "service-worker.js": "/szymskiBeats/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/szymskiBeats/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/szymskiBeats/static/media/logo.5d5d9eef.svg"
+  }
+}
