@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce9695c915475c9b424033a25b2e2040",
+    "revision": "5a2d061a2e6573cbb5ccbc6a16a5539d",
     "url": "/szymskiBeats/index.html"
   },
   {
-    "revision": "c2ccfd879277ecb8e7f8",
-    "url": "/szymskiBeats/static/css/main.f2d20bd9.chunk.css"
+    "revision": "b6922c441159c89ffe95",
+    "url": "/szymskiBeats/static/css/main.f2848a25.chunk.css"
   },
   {
-    "revision": "6f62317f61a17bae9de4",
-    "url": "/szymskiBeats/static/js/2.cd78a837.chunk.js"
+    "revision": "d9936379716d4064aedd",
+    "url": "/szymskiBeats/static/js/2.7ae05337.chunk.js"
   },
   {
-    "revision": "c2ccfd879277ecb8e7f8",
-    "url": "/szymskiBeats/static/js/main.61480e0b.chunk.js"
+    "revision": "b6922c441159c89ffe95",
+    "url": "/szymskiBeats/static/js/main.b4623ee5.chunk.js"
   },
   {
     "revision": "6a10252953819292ec7e",
     "url": "/szymskiBeats/static/js/runtime~main.0968c9a6.js"
+  },
+  {
+    "revision": "44f28ff5ddf738f8add1df097a7cb4c1",
+    "url": "/szymskiBeats/static/media/arrowDownWhite.44f28ff5.png"
   },
   {
     "revision": "98a103d13e9330905dd72946bfd2b38d",
