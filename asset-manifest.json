@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/szymskiBeats/static/css/main.008c5932.chunk.css",
-    "main.js": "/szymskiBeats/static/js/main.28690714.chunk.js",
-    "main.js.map": "/szymskiBeats/static/js/main.28690714.chunk.js.map",
+    "main.css": "/szymskiBeats/static/css/main.99a7b724.chunk.css",
+    "main.js": "/szymskiBeats/static/js/main.7383e10e.chunk.js",
+    "main.js.map": "/szymskiBeats/static/js/main.7383e10e.chunk.js.map",
     "runtime~main.js": "/szymskiBeats/static/js/runtime~main.0968c9a6.js",
     "runtime~main.js.map": "/szymskiBeats/static/js/runtime~main.0968c9a6.js.map",
     "static/js/2.69ebc1db.chunk.js": "/szymskiBeats/static/js/2.69ebc1db.chunk.js",
     "static/js/2.69ebc1db.chunk.js.map": "/szymskiBeats/static/js/2.69ebc1db.chunk.js.map",
     "index.html": "/szymskiBeats/index.html",
-    "precache-manifest.f443f4189bec82439f9d40928488569c.js": "/szymskiBeats/precache-manifest.f443f4189bec82439f9d40928488569c.js",
+    "precache-manifest.84b7cbd5b588dc61bf309455e625cddb.js": "/szymskiBeats/precache-manifest.84b7cbd5b588dc61bf309455e625cddb.js",
     "service-worker.js": "/szymskiBeats/service-worker.js",
-    "static/css/main.008c5932.chunk.css.map": "/szymskiBeats/static/css/main.008c5932.chunk.css.map",
+    "static/css/main.99a7b724.chunk.css.map": "/szymskiBeats/static/css/main.99a7b724.chunk.css.map",
     "static/media/arrowDownWhite.png": "/szymskiBeats/static/media/arrowDownWhite.44f28ff5.png",
     "static/media/main.css": "/szymskiBeats/static/media/justdoit.9a0bc422.jpg",
     "static/media/email.png": "/szymskiBeats/static/media/email.04d4c405.png"
